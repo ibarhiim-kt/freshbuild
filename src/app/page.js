@@ -20,8 +20,8 @@ export default function Home() {
     <div className="bg-custom-radial shadow-custom">
     <Hero/>
     </div>    
-    {/* <SectionTwo/> 
-    <SectionThree/> */}
+    <SectionTwo/> 
+    {/* <SectionThree/> */}
     </div>
   )
 }

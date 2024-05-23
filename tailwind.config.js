@@ -24,6 +24,7 @@ module.exports = {
         'max-900px':{'max':'900px'},
         'max-700px':{'max':'700px'},
         'max-490px':{'max':'490px'},
+        'max-400px':{'max':'400px'},
       },
       fontFamily:{
         'custom': ''
