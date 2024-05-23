@@ -7,7 +7,7 @@ export default function Hero(){
         max-1280px:px-[10px] max-900px:max-w-[700px] max-700px:max-w-[550px] 
         max-490px:max-w-[400px] ">
         <img src="./images/heroHouse.svg" alt="" className="absolute top-[42px] 
-        max-1280px:hidden" />
+        max-1280px:hidden max-1220px:hidden" />
         <div className="flex flex-col items-center ">
             <h1 className="max-w-[747px]  font-extrabold text-[42px] leading-[50.4px] text-center mt-[67px] text-[#3E8180] max-900px:text-[38px] 
             max-900px:max-w-[700px] max-700px:text-[27px] max-700px:leading-[40px] 

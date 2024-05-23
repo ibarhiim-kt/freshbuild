@@ -19,7 +19,8 @@ module.exports = {
         'custom3': ' 0px 3px 30px 0px #2D27471A',
       },
       screens:{
-        'max-1280px':{'max':'1280px'},
+        // 'max-1280px':{'max':'1280px'},
+        'max-1220px':{'max':'1220px'},
         'max-900px':{'max':'900px'},
         'max-700px':{'max':'700px'},
         'max-490px':{'max':'490px'},
