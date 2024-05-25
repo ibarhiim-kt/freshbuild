@@ -8,8 +8,8 @@ export default function Header(){
             <div className="flex items-center">
             <img src="./images/logo.svg" alt="img" className="max-490px:h-[18px] 
             max-490px:w-[18px]  max-400px:h-[15px] max-400px:w-[15px]" />
-            <p className=".font-normal text-[20px] leading-[27.32px] 
-            text-[#3E8180] max-490px:text-[18px] max-400px:text-[16px]">fresh<span className="font-extrabold">builds</span></p>
+            <p className="font-light text-[20px] leading-[27.32px] 
+            text-[#3E8180] max-490px:text-[18px] max-400px:text-[16px]">fresh<span className="font-bold">builds</span></p>
             </div>           
             <p className="font-bold text-[16px] leading-[20.83px] items-center max-490px:text-[14px] max-400px:text-[12px]">1-844-769-6377</p>           
         </div>

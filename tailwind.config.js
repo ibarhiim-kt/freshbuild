@@ -17,6 +17,9 @@ module.exports = {
         'custom': '0px 4px 4px 0px #00000040',
         'custom2': '0px 6px 40px 0px #00000026',
         'custom3': ' 0px 3px 30px 0px #2D27471A',
+        'custom4': '0px 3px 30px 0px #2D27471A',
+        'custom5': '0px 3px 30px 0px #2D27471A',
+        
       },
       screens:{
         // 'max-1280px':{'max':'1280px'},

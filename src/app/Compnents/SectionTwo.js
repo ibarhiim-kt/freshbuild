@@ -7,9 +7,9 @@ export default function SectionTwo(){
             <h1 className="leading-[39px] text-[26px] font-medium max-w-[540px]
             max-900px:text-[43px] max-900px:max-w-[1000px] max-900px:leading-[60px]
              max-700px:text-[26px] max-700px:max-w-[540px] max-700px:leading-[35px]
-             max-490px:text-[22px] max-400px:text-[18px]">
+             max-490px:text-[22px] max-400px:text-[18px] max-400px:leading-[28px]">
             Buying a new home is daunting. <br />
-            <span className="text-[#3E8180]">fresh<span className="font-normal">builds</span></span> makes it oh-so easy.
+            <span className="text-[#3E8180]">fresh<span className="font-light">builds</span></span> makes it oh-so easy.
             </h1>
             <div className="flex items-center max-w-[305px] bg-[white] rounded-[5px] px-[16px] py-[8px] absolute right-[72px] top-[20px] shadow-custom2
             max-1220px:static max-1220px:mt-[10px]">
